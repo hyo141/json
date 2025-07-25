@@ -1,0 +1,29 @@
+{
+  "home": {
+    "openFinance": "Open Finance",
+    "description": "가스비 없이 빠르고 안전하게, 기관급 유동성과 함께하는 온체인 거래의 새로운 기준",
+    "gasFees": "가스비",
+    "whyHelix": "왜 Helix인가요?",
+    "reimagined": "재정의된",
+    "latestNews": "최신 소식",
+    "totalVolume": "총 거래량",
+    "totalMarkets": "전체 마켓",
+    "startTrading": "트레이딩 시작하기",
+    "helixDocs": "Helix 문서",
+    "somethingIsBrewing": "무언가가 준비되고 있어요",
+    "builtForTheCommunity": "커뮤니티를 위한 설계",
+    "builtForTheCommunityDescription": "투자자, VC 그리고 불필요한 요소 없음",
+    "overview": {
+      "title": "왜 Helix인가요?",
+      "lpRewardsTitle": "LP 보상",
+      "tradingBotsTitle": "트레이딩 봇",
+      "gasFreeTitle": "가스비 없는 거래",
+      "tradeStocksTitle": "주식 및 RWA 거래",
+      "lpRewardsDescription": "유동성을 제공하고 그에 대한 보상을 받으세요.",
+      "description": "최고 수준의 거래소와 같이 설계되었지만, 완전히 탈중앙화되었습니다.",
+      "gasFreeDescription": "Helix에선 가스비 걱정을 하지 않아도 됩니다.",
+      "tradingBotsDescription": "높은 수준의 스마트 온체인 트레이딩 전략을 클릭 한 번으로 실행해보세요.",
+      "tradeStocksDescription": "암호화폐로 주식 및 실물 자산(RWA)을 더 빠르고 저렴하며 투명하게 거래해보세요."
+    }
+  }
+}
